@@ -65,9 +65,9 @@ An NLP-based tool that extracts and ranks resumes based on job descriptions usin
 
 ## 📫 Let's Connect!
 
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/hunzlaabbasi](https://linkedin.com/in/hunzlaabbasi)  
-- 📬 Email: [hunzlaabbasi1@gmail.com](mailto:hunzlaabbasi1@gmail.com)
+- 🌐 Portfolio: https://hunzlaabbasi-portfolio.vercel.app/  
+- 💼 LinkedIn: www.linkedin.com/in/hunzla-abbasi-94176a226
+- 📬 Email: hunzlaabbasi1@gmail.com
 
 ---
 
